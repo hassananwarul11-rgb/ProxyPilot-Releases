@@ -1,4 +1,8 @@
 {
-  "available": false,
-  "message": "Stable release is not published yet. Developer is configuring Android signing."
+  "available": true,
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apkUrl": "https://github.com/hassananwarul11-rgb/ProxyPilot-Releases/releases/download/v0.1.3/ProxyPilot-0.1.3.apk",
+  "sha256": "f0da30776670c8d70fa98f8a21cdb8a2ef03901156fa27ff8d23c773d1c55e94",
+  "notes": "ProxyPilot 0.1.3 signed APK update."
 }
