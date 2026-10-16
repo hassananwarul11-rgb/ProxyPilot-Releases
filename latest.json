@@ -1,8 +1,8 @@
 {
   "available": true,
-  "versionCode": 16,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/hassananwarul11-rgb/ProxyPilot-Releases/releases/download/v0.2.5/ProxyPilot-0.2.5.apk",
-  "sha256": "b4f05ea606dab6c1c7b762124ebe7651a8669a7caf22458bc2cf136d714b1fad",
-  "notes": "ProxyPilot 0.2.5 signed APK update."
+  "versionCode": 17,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/hassananwarul11-rgb/ProxyPilot-Releases/releases/download/v0.2.6/ProxyPilot-0.2.6.apk",
+  "sha256": "e5658260ea455568cc9df292c4e74be8f98075c32f9ad05f51403b7fd6371393",
+  "notes": "ProxyPilot 0.2.6 signed APK update."
 }
